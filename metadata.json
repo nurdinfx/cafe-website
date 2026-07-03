@@ -1,0 +1,6 @@
+{
+  "name": "Aura Café",
+  "description": "An award-winning, luxury coffee shop digital experience featuring handcrafted drinks, artisanal pastries, table reservations, direct online ordering, loyalty rewards, and an intelligent AI coffee sommelier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
